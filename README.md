@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @nnilayy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nilay Bhatnagar
 =======================================================================================================================================
 
@@ -16,8 +10,10 @@ ML Engineer, Data Scientist and Full Stack Developer
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack Projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
 
+______________________________________________________________________________________________________________________
+
 ### Skills
-* ML,DL,Data Science:<br>
+* <b><i>ML,DL,Data Science:</b></i><br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -45,20 +41,20 @@ ML Engineer, Data Scientist and Full Stack Developer
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
   
-* Languages:<br>
+* <b><i>Languages:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,cpp,c)](https://skillicons.dev)
 
-* Front-end Development:<br>
+* <b><i>Frontend Development:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,jquery,sass,materialui,figma)](https://skillicons.dev)
 
-* Back-end Development:<br>
+* <b><i>Backend Development:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql,redis,netlify)](https://skillicons.dev)
 
-* Other:<br>
+* <b><i>Other:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
 <br>
 
-
+______________________________________________________________________________________________________________________
 
 ### Socials
 <p align="left"> 
@@ -71,6 +67,7 @@ ML Engineer, Data Scientist and Full Stack Developer
   </a>
 </p>
 
+______________________________________________________________________________________________________________________
 
 ### Badges
 <b>My GitHub Stats</b>
@@ -82,3 +79,11 @@ ML Engineer, Data Scientist and Full Stack Developer
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nnilayy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nnilayy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+______________________________________________________________________________________________________________________
+
+- 👋 Hi, I’m @nnilayy
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
