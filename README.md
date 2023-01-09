@@ -4,15 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-nnilayy/nnilayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nilay Bhatnagar
 =======================================================================================================================================
 
 ML Engineer, Data Scientist and Full Stack Developer
-----------------------------------------------------
+=======================================================================================================================================
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
@@ -62,3 +58,13 @@ ML Engineer, Data Scientist and Full Stack Developer
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nnilayy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nnilayy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,powershell,py,c,cs,cpp,jquery,nodejs,tensorflow, ts, unity)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=sass, stackoverflow, tailwind, tensorflow, ts, unity)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,react,redis,redux,regex,vscode,bootstrap)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=css, express, figma, firebase, flask, git, github, graphql, java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex, materialui, mongodb, mysql,netlify,nodejs)](https://skillicons.dev)
