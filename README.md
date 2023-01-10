@@ -8,7 +8,7 @@ ML Engineer, Data Scientist and Full Stack Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
 * 🧠  I'm learning Many Things Data Science and Full Stack Web Development.
-* 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack Projects.
+* 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack related projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
 
 ______________________________________________________________________________________________________________________
