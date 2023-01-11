@@ -58,7 +58,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 
 ### Socials
-If you would like to connect with me feel free to say Hi at the following socials:
+If you would like to connect with me, Feel free to say Hi at the following socials:
 <p align="left"> 
 <p>
 (1)Github:
