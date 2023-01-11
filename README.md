@@ -59,17 +59,26 @@ ________________________________________________________________________________
 
 ### Socials
 If you would like to connect with me feel free to say Hi at the following socials:
-(1)Github:
 <p align="left"> 
+<p>
+(1)Github:
   <a href="https://www.github.com/nnilayy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+</p>
+<p>
 (2)LinkedIn:
   <a href="https://www.linkedin.com/in/nilay-bhatnagar-031836249" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+</p>
+
+<p>
 (3)Stackoverflow: 
    <a href="https://www.stackoverflow.com/users/20966916/nilay-bhatnagar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-  </a>
+   </a>
+</p>
+
 </p>
 
 ______________________________________________________________________________________________________________________
