@@ -1,8 +1,7 @@
-Well Hello There![](https://blog.videoscribe.co/hs-fs/hubfs/Imported_Blog_Media/GigsBlogPost-compressed1-2.gif?width=705&height=500&name=GigsBlogPost-compressed1-2.gif),My name is Nilay Bhatnagar
+Well Hello There,
+<p>![](https://media.tenor.com/dwuJ1LwfawUAAAAS/obi-wan-hello-there-obi-wan.gif)</p>
 =======================================================================================================================================
-
-ML Engineer, Data Scientist and Full Stack Developer
-=======================================================================================================================================
+I am Nilay Bhatnagar, I am an ML Engineer, Data Scientist and Full Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
