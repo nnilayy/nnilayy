@@ -1,4 +1,7 @@
-Well Hello There![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
+Well Hello There
+<!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
+ -->
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fslate.com%2Fculture%2F2019%2F05%2Fgifs-on-tv-shows-the-simpsons-homer-backing-into-bushes.html&psig=AOvVaw1QlA8Sjn0gsVP_ldr8dVOr&ust=1673720479114000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjqnu-UxfwCFQAAAAAdAAAAABAD),
 My name is Nilay Bhatnagar
 =======================================================================================================================================
 
@@ -11,6 +14,9 @@ ML Engineer, Data Scientist and Full Stack Developer
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack related projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
 
+<p>
+  <img alt"gif" src=https://gfycat.com/amplemelodiccoypu>
+</p>
 ______________________________________________________________________________________________________________________
 
 ### Skills
@@ -81,7 +87,7 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 
 </p>
 
-______________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________
 
 ### Badges
 <b>My GitHub Stats</b>
