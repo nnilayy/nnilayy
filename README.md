@@ -12,8 +12,6 @@ Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full St
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack related projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
 
-
-
 ### Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -54,10 +52,7 @@ Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full St
 
 * <b><i>Other:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
-<br>
-
 ______________________________________________________________________________________________________________________
-
 ### Socials
 If you would like to connect with me, Feel free to say Hi at the following socials:
 <p align="left"> 
@@ -72,7 +67,6 @@ If you would like to connect with me, Feel free to say Hi at the following socia
    </a>
 </p>
 
-______________________________________________________________________________________________________________________
 
 ### Badges
 <b><i>My GitHub Stats</i></b>
