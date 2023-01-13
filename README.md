@@ -4,7 +4,7 @@
 </p>
 
 ______________________________________________________________________________________________________________________
-Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full Stack Developer
+### Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full Stack Developer
 
 * 🌍  I'm currently based in India
 * ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
