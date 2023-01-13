@@ -1,15 +1,18 @@
-Well Hello There,
-![img](https://media.tenor.com/dwuJ1LwfawUAAAAS/obi-wan-hello-there-obi-wan.gif)
-=======================================================================================================================================
-I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full Stack Developer
+# Well Hello There
+<p >
+  <img src="https://media.tenor.com/dwuJ1LwfawUAAAAC/obi-wan-hello-there-obi-wan.gif"  width="750" height="300">
+</p>
+
+______________________________________________________________________________________________________________________
+Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full Stack Developer
 
 * 🌍  I'm currently based in India
 * ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
-* 🧠  I'm learning Many Things Data Science and Full Stack Web Development.
+* 🌱  I'm learning Many Things Data Science and Full Stack Web Development.
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack related projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
 
-______________________________________________________________________________________________________________________
+
 
 ### Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
@@ -58,31 +61,21 @@ ________________________________________________________________________________
 ### Socials
 If you would like to connect with me, Feel free to say Hi at the following socials:
 <p align="left"> 
-<p>
-(1)Github:
+
   <a href="https://www.github.com/nnilayy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-</p>
-<p>
-(2)LinkedIn:
   <a href="https://www.linkedin.com/in/nilay-bhatnagar-031836249" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
-</p>
-
-<p>
-(3)Stackoverflow: 
    <a href="https://www.stackoverflow.com/users/20966916/nilay-bhatnagar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
    </a>
 </p>
 
-</p>
-
 ______________________________________________________________________________________________________________________
 
 ### Badges
-<b>My GitHub Stats</b>
+<b><i>My GitHub Stats</i></b>
 
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nnilayy's GitHub stats" /></a>
 
@@ -91,11 +84,3 @@ ________________________________________________________________________________
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nnilayy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nnilayy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-______________________________________________________________________________________________________________________
-
-- 👋 Hi, I’m @nnilayy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
