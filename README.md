@@ -24,7 +24,7 @@ ________________________________________________________________________________
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="postman" width="40" height="40"/> 
   </a>
   <a href="https://Keras.com" target="_blank" rel="noreferrer"> 
