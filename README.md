@@ -80,3 +80,29 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nnilayy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nnilayy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+______________________________________________________________________________________________________________________
+
+<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.github.com/nnilayy/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink" alt="LinkedIn">
+</a>
+
+<a href="mailto:nnilayy.work@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+</a>
+
+<a href="https://www.instagram.com/dhanushka_m/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+</a>
+<a href="https://dev.to/dhanushkadev" target="_blank">
+  <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
+</a>
