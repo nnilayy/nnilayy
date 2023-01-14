@@ -84,7 +84,7 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 ______________________________________________________________________________________________________________________
 
 <a href="https://www.linkedin.com/in/nilay-bhatnagar-031836249" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn">
 </a>
 
 <a href="https://www.github.com/nnilayy/" target="_blank">
@@ -95,17 +95,8 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
 </a>
 
-<a href="https://www.instagram.com/dhanushka_m/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
-</a>
-<a href="https://dev.to/dhanushkadev" target="_blank">
-  <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
+<a href="https://www.stackoverflow.com/users/20966916/nilay-bhatnagar" target="_blank">
+  <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverFlow">
 </a>
 
 
