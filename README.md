@@ -83,9 +83,10 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 
 ______________________________________________________________________________________________________________________
 
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/nilay-bhatnagar-031836249" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://www.github.com/nnilayy/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink" alt="LinkedIn">
 </a>
@@ -106,3 +107,6 @@ ________________________________________________________________________________
 <a href="https://dev.to/dhanushkadev" target="_blank">
   <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
 </a>
+
+
+
