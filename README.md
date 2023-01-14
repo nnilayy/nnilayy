@@ -84,15 +84,15 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 ______________________________________________________________________________________________________________________
 
 <a href="https://www.linkedin.com/in/nilay-bhatnagar-031836249" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://www.github.com/nnilayy/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:nnilayy.work@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.stackoverflow.com/users/20966916/nilay-bhatnagar" target="_blank">
