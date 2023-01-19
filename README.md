@@ -11,7 +11,7 @@ ________________________________________________________________________________
 * 🌍  I'm currently based in India
 * ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
 * 🌱  I'm learning Many Things Data Science and Full Stack Web Development.
-* 🤝  I'm open to collaborating on Machine Learning, Deep Learning, Data Science or Full Stack related projects.
+* 🤝  Would Love to collaborate in Machine Learning, Deep Learning, Data Science or Full Stack related projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
 
 ### Skills
