@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ### Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full Stack Developer
 
 * 🌍  I'm currently based in India
-* ✉️  You can contact me at [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
+* ✉️  You can mail me @ [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
 * 🌱  I'm learning Many Things Data Science and Full Stack Web Development.
 * 🤝  Would Love to collaborate in Machine Learning, Deep Learning, Data Science or Full Stack related projects.
 * ⚡  A complete Night Owl. Do not know what sleep is till the morning.
@@ -76,11 +76,10 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 </p>
 
 
-### Badges
-<b><i>My GitHub Stats</i></b>
-<a>
-  ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=radical)
-</a>
+
+### My GitHub Stats
+![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=radical)
+<br>
 
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nnilayy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
