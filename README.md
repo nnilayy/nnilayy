@@ -58,7 +58,7 @@ ________________________________________________________________________________
 ### Socials
 If you would like to connect with me, Feel free to say Hi at the following socials:
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/nilay-bhatnagar-031836249" target="_blank">
+  <a href="https://www.linkedin.com/in/nnilayy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
