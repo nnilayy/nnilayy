@@ -54,6 +54,7 @@ ________________________________________________________________________________
 
 * <b><i>Other:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
+
 ______________________________________________________________________________________________________________________
 ### Socials
 If you would like to connect with me, Feel free to say Hi at the following socials:
@@ -74,8 +75,8 @@ If you would like to connect with me, Feel free to say Hi at the following socia
     <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="StackOverFlow">
   </a>
 </p>
-______________________________________________________________________________________________________________________
 
+______________________________________________________________________________________________________________________
 
 ### My GitHub Stats
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple)
