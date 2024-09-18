@@ -78,7 +78,7 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 
 
 ### My GitHub Stats
-![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=radical)
+![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple)
 <br>
 
 <a href="http://www.github.com/nnilayy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nnilayy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
