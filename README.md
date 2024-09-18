@@ -59,16 +59,16 @@ ________________________________________________________________________________
 ### Socials
 If you would like to connect with me, Feel free to say Hi at the following socials:
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/nnilayy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/nnilayy" className="footer-link" target="_blank" rel="noopener noreferrer">
+    <img src="icons/linkedin.svg" alt="LinkedIn">
   </a>
 
-  <a href="https://www.github.com/nnilayy/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn">
+  <a href="https://www.github.com/nnilayy/" className="footer-link" target="_blank" rel="noopener noreferrer">
+    <img src="icons/github.svg" alt="Github">
   </a>
 
-  <a href="mailto:nnilayy.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:nnilayy.work@gmail.com" className="footer-link" target="_blank" rel="noopener noreferrer">
+    <img src="icons/email.png" alt="Email">
   </a>
 
   <a href="https://www.stackoverflow.com/users/20966916/nilay-bhatnagar" target="_blank">
