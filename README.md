@@ -77,10 +77,6 @@ If you would like to connect with me, Feel free to say Hi at the following socia
   <a href="mailto:nnilayy.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
-
-  <a href="https://www.stackoverflow.com/users/20966916/nilay-bhatnagar" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="StackOverFlow">
-  </a>
 </p>
 
 ______________________________________________________________________________________________________________________
