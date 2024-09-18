@@ -67,7 +67,11 @@ If you would like to connect with me, Feel free to say Hi at the following socia
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github">
   </a>
     <a href="https://www.x.com/nnilayy_/" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+  </a>
+
+  <a href="https://huggingface.co/nnilayy" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face">
   </a>
 
   <a href="mailto:nnilayy.work@gmail.com" target="_blank">
