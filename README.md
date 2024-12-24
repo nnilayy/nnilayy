@@ -12,7 +12,7 @@ ________________________________________________________________________________
 * ✉️  You can mail me @ [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
 * 🌱  I'm learning Many Things Data Science and Full Stack Web Development.
 * 🤝  Would Love to collaborate in Machine Learning, Deep Learning, Data Science or Full Stack related projects.
-* 🦉  A complete Night Owl. Do not know what sleep is till the morning.
+* 🦉  A complete Night Owl.
 
 ### Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
