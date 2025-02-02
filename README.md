@@ -6,12 +6,11 @@
 </p>
 
 ______________________________________________________________________________________________________________________
-### Hi👋, I am Nilay Bhatnagar and I am an ML Engineer, Data Scientist and Full Stack Developer
-
+### Hi👋, I am Nilay Bhatnagar 
 * 🌍  I'm currently based in India
 * ✉️  You can mail me @ [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
-* 🌱  I'm learning Many Things Data Science and Full Stack Web Development.
-* 🤝  Would Love to collaborate in Machine Learning, Deep Learning, Data Science or Full Stack related projects.
+* 🌱  I'm learning Many Things ML.
+* 🤝  Would Love to collaborate in Machine Learning.
 * 🦉  A complete Night Owl.
 
 ### Skills
