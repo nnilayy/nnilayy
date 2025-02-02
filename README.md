@@ -7,11 +7,8 @@
 
 ______________________________________________________________________________________________________________________
 ### Hi👋, I am Nilay Bhatnagar 
-* 🌍  I'm currently based in India
-* ✉️  You can mail me @ [nnilayy.work@gmail.com](mailto:nnilayy.work@gmail.com)
-* 🌱  I'm learning Many Things ML.
-* 🤝  Would Love to collaborate in Machine Learning.
-* 🦉  A complete Night Owl.
+* 🌱  Learning Many Things ML.
+* * 🦉  A complete Night Owl.
 
 ### Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
