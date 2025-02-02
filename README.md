@@ -8,7 +8,7 @@
 ______________________________________________________________________________________________________________________
 ### Hi👋, I am Nilay Bhatnagar 
 * 🌱  Learning Many Things ML.
-* * 🦉  A complete Night Owl.
+* 🦉  A complete Night Owl.
 
 ### Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
