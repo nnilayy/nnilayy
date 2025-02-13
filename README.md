@@ -6,7 +6,7 @@
 </p>
 
 ______________________________________________________________________________________________________________________
-### Hi👋, I am Nilay Bhatnagar 
+### Hey there👋, I am Nilay 
 * 🌱  Learning Many Things ML.
 * 🦉  A complete Night Owl.
 
