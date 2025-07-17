@@ -7,7 +7,7 @@
 
 ______________________________________________________________________________________________________________________
 ### Hey there👋, I am Nilay 
-* 🌱  Learning Many Things ML.
+* 🌱  Doing Many Things ML and SW.
 * 🦉  A complete Night Owl.
 
 ### Skills
