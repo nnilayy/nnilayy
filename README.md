@@ -83,6 +83,12 @@ ________________________________________________________________________________
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nnilayy&background=000000&disable_animations=true&border=900dd6&border_radius=10&theme=midnight-purple&card_width=400)
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple&border_color=900dd6&border_radius=10&card_width=300)
 ![Nilay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnilayy&theme=high-contrast&area=true&area_color=c096d9&border_color=900dd6&line=aa39e6&point=aa39e6&color=e3b5ff&custom_title=Nilay%27s%20Past%2030%20Day%20Contribution%20Graph&radius=16)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nnilayy/nnilayy/main/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nnilayy/nnilayy/main/output/pacman-light.svg">
+  <img src="https://raw.githubusercontent.com/nnilayy/nnilayy/main/output/pacman-light.svg" alt="Pac-Man Contribution Graph" />
+</picture>
+
 ______________________________________________________________________________________________________________________
 
 
