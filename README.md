@@ -78,13 +78,10 @@ If you would like to connect with me, Feel free to say Hi at the following socia
 ______________________________________________________________________________________________________________________
 
 ### My GitHub Stats
-![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple)
-<br>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nnilayy&theme=midnight-purple&border_radius=10)](https://git.io/streak-stats)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&langs_count=10&theme=midnight-purple)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nnilayy&background=000000&disable_animations=true&border=900dd6&border_radius=10&theme=midnight-purple)
+![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple&border_color=900dd6&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&layout=donut&theme=midnight-purple&border_color=900dd6&border_radius=10)
+![Nilay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnilayy&theme=high-contrast&area=true&area_color=c096d9&border_color=900dd6&line=aa39e6&point=aa39e6&color=e3b5ff&custom_title=Nilay%27s%20Past%2030%20Day%20Contribution%20Graph&radius=16)
 ______________________________________________________________________________________________________________________
 
 
