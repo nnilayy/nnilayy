@@ -1,3 +1,5 @@
+## Well Hello There 👋
+
 ![](https://komarev.com/ghpvc/?username=nnilayy&color=blueviolet)
 
 <img src="assets/snowfall-start.svg" width="100%">
@@ -6,10 +8,10 @@
   <img src="assets/hello-there.gif"  width="900" height="400">
 </p>
 
-## Well Hello There 👋, I am Nilay 
+
+* I am Nilay 
 * 🌱  Doing Many Things ML and SWE.
 * 🦉  A complete Night Owl.
-
 ## Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
