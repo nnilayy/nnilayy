@@ -1,6 +1,6 @@
-<img src="assets/snowfall-start.svg" width="100%">
-
 ![](https://komarev.com/ghpvc/?username=nnilayy&color=blueviolet)
+
+<img src="assets/snowfall-start.svg" width="100%">
 
 <p>
   <img src="assets/hello-there.gif"  width="900" height="400">
