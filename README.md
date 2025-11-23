@@ -12,6 +12,9 @@
 * I am Nilay 
 * 🌱  Doing Many Things ML and SWE.
 * 🦉  A complete Night Owl.
+
+<img src="assets/snowfall-middle.svg" width="100%">
+
 ## Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -53,6 +56,7 @@
 * <b><i>Other:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
 
+<img src="assets/snowfall-middle.svg" width="100%">
 
 ## Socials, Projects & Contributions, and Research
 
