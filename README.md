@@ -81,6 +81,12 @@ ________________________________________________________________________________
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&layout=compact&theme=midnight-purple&border_color=900dd6&border_radius=10) -->
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nnilayy&background=000000&disable_animations=true&border=900dd6&border_radius=10&theme=midnight-purple&card_width=400)
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple&border_color=900dd6&border_radius=10&card_width=300)
+<div style="border: 1px solid #900dd6; border-radius: 10px; display:inline-block; padding:0; margin:0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnilayy&theme=midnight_purple&color=900dd6"
+       style="display:inline-block; margin:0; padding:0; vertical-align:middle;" />
+</div>
+
+
 ![Nilay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnilayy&theme=high-contrast&area=true&area_color=c096d9&border_color=900dd6&line=aa39e6&point=aa39e6&color=e3b5ff&custom_title=Nilay%27s%20Past%2030%20Day%20Contribution%20Graph&radius=16)
 ______________________________________________________________________________________________________________________
 
