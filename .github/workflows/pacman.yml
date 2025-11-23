@@ -1,7 +1,16 @@
 name: Pacman Contribution Graph
+
 on:
+  # Run ONLY when a tag is pushed
+  push:
+    tags:
+      - "pacman-*"
+
+  # Run daily at 2 AM UTC
   schedule:
-    - cron: "0 2 * * *"   # Every day at 2 AM UTC
+    - cron: "0 2 * * *"
+
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
