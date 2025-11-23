@@ -1,28 +1,36 @@
 name: Pacman Contribution Graph
 
 on:
+  # Run ONLY when a tag starting with "pacman-" is pushed
   push:
     tags:
       - "pacman-*"
 
+  # Run daily at 2 AM UTC
   schedule:
     - cron: "0 2 * * *"
 
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
+    # Needed to allow pushing commits
     permissions:
-      contents: write   # REQUIRED to allow pushing
+      contents: write
+
+    # Fix Node.js Out-Of-Memory crash by increasing heap
+    env:
+      NODE_OPTIONS: --max-old-space-size=8192
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}  # built-in, guaranteed to exist
+          token: ${{ secrets.GITHUB_TOKEN }}   # ALWAYS exists, safe
 
       - name: Install Node
         uses: actions/setup-node@v4
