@@ -20,6 +20,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
 
       - name: Install Node
         uses: actions/setup-node@v4
@@ -41,11 +44,11 @@ jobs:
           mv pacman-dark.svg output/pacman-dark.svg
 
       - name: Commit and push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "Pacman Bot"
           git config user.email "pacman-bot@example.com"
           git add output/pacman-light.svg output/pacman-dark.svg
           git commit -m "Update Pac-Man graph" || echo "No changes"
-          git push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          git push https://x-access-token:${GH_TOKEN}@github.com/nnilayy/nnilayy.git HEAD:main
