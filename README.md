@@ -1,14 +1,12 @@
 <img src="assets/snowfall-start.svg" width="100%">
 
-# Well Hello There
-
 ![](https://komarev.com/ghpvc/?username=nnilayy&color=blueviolet)
+
 <p>
   <img src="assets/hello-there.gif"  width="900" height="400">
 </p>
 
-
-## Hey there👋, I am Nilay 
+## Well Hello There 👋, I am Nilay 
 * 🌱  Doing Many Things ML and SWE.
 * 🦉  A complete Night Owl.
 
