@@ -1,0 +1,44 @@
+<svg width="100%" height="240" viewBox="0 0 1440 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .snow {
+      fill: white;
+      opacity: 0.9;
+      animation: fall linear infinite;
+    }
+
+    @keyframes fall {
+      0% { transform: translateY(-20px); }
+      100% { transform: translateY(260px); }
+    }
+  </style>
+
+  <!-- Snowbank (bottom) -->
+  <path d="M0,180 
+           C200,160 300,200 500,190 
+           C700,180 900,210 1100,190 
+           C1300,170 1440,210 1440,210 
+           L1440,240 L0,240 Z"
+        fill="white" />
+
+  <!-- Falling snowflakes -->
+  <g>
+    <circle class="snow" cx="50" cy="0"   r="2"   style="animation-duration: 6s; animation-delay: 0s;" />
+    <circle class="snow" cx="120" cy="0"  r="3"   style="animation-duration: 8s; animation-delay: 1s;" />
+    <circle class="snow" cx="200" cy="0"  r="1.5" style="animation-duration: 7s; animation-delay: 2s;" />
+    <circle class="snow" cx="280" cy="0"  r="2.5" style="animation-duration: 9s; animation-delay: 0.5s;" />
+    <circle class="snow" cx="360" cy="0"  r="1.8" style="animation-duration: 5s; animation-delay: 1.5s;" />
+    <circle class="snow" cx="440" cy="0"  r="3"   style="animation-duration: 10s; animation-delay: 0.2s;" />
+    <circle class="snow" cx="520" cy="0"  r="2"   style="animation-duration: 6.5s; animation-delay: 2s;" />
+    <circle class="snow" cx="600" cy="0"  r="3.2" style="animation-duration: 11s; animation-delay: 1.2s;" />
+    <circle class="snow" cx="680" cy="0"  r="1.4" style="animation-duration: 6s; animation-delay: 0.8s;" />
+    <circle class="snow" cx="760" cy="0"  r="2.6" style="animation-duration: 7.5s; animation-delay: 0s;" />
+    <circle class="snow" cx="840" cy="0"  r="3"   style="animation-duration: 9s; animation-delay: 1s;" />
+    <circle class="snow" cx="920" cy="0"  r="2"   style="animation-duration: 6s; animation-delay: 2s;" />
+    <circle class="snow" cx="1000" cy="0" r="4"   style="animation-duration: 12s; animation-delay: 0.4s;" />
+    <circle class="snow" cx="1080" cy="0" r="2"   style="animation-duration: 7s; animation-delay: 1.7s;" />
+    <circle class="snow" cx="1160" cy="0" r="3"   style="animation-duration: 8.5s; animation-delay: 0.3s;" />
+    <circle class="snow" cx="1240" cy="0" r="1.7" style="animation-duration: 6.8s; animation-delay: 1.4s;" />
+    <circle class="snow" cx="1320" cy="0" r="2.4" style="animation-duration: 10s; animation-delay: 0.1s;" />
+    <circle class="snow" cx="1400" cy="0" r="3"   style="animation-duration: 9s; animation-delay: 1.1s;" />
+  </g>
+</svg>
