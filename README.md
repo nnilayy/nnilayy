@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 ### My GitHub Stats
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&layout=compact&theme=midnight-purple&border_color=900dd6&border_radius=10) -->
-![Github Stats](https://profile-cards-one.vercel.app/api/cards/profile-details?username=nnilayy&theme=midnight_purple&width=800&height=225&border_radius=10&border_color=%23900dd6)
+![Github Stats](https://profile-cards-one.vercel.app/api/cards/profile-details?username=nnilayy&theme=midnight_purple&width=850&height=225&border_radius=10&border_color=%23900dd6)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nnilayy&background=000000&disable_animations=true&border=900dd6&border_radius=10&theme=midnight-purple&card_width=400)
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple&border_color=900dd6&border_radius=10&card_width=300)
 ![Nilay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnilayy&theme=high-contrast&area=true&area_color=c096d9&border_color=900dd6&line=aa39e6&point=aa39e6&color=e3b5ff&custom_title=Nilay%27s%20Past%2030%20Day%20Contribution%20Graph&radius=16)
