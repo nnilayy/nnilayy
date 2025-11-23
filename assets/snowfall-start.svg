@@ -1,0 +1,81 @@
+<svg width="100%" height="260" viewBox="0 0 1440 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Multi-shade premium sun gradient -->
+    <radialGradient id="sunMulti" cx="50%" cy="50%" r="70%">
+      <stop offset="0%"   stop-color="#fff9d6" />
+      <stop offset="25%"  stop-color="#ffeb9d" />
+      <stop offset="55%"  stop-color="#ffd86a" />
+      <stop offset="80%"  stop-color="#ffc44d" />
+      <stop offset="100%" stop-color="#ffb23b" />
+    </radialGradient>
+
+    <!-- Outer glow -->
+    <radialGradient id="sunOuter" cx="50%" cy="50%" r="90%">
+      <stop offset="0%"   stop-color="#fff3c1" stop-opacity="0.6" />
+      <stop offset="40%"  stop-color="#ffe694" stop-opacity="0.35" />
+      <stop offset="75%"  stop-color="#ffd361" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .cloud { fill: white; opacity: 0.95; }
+
+    .snow {
+      fill: white;
+      opacity: 0.9;
+      animation: fall linear infinite;
+    }
+
+    @keyframes fall {
+      0%   { transform: translateY(-20px); }
+      100% { transform: translateY(260px); }
+    }
+  </style>
+
+  <!-- SNOWFALL BEHIND CLOUDS (unchanged) -->
+  <g>
+    <circle class="snow" cx="120" cy="135" r="4.5"  style="animation-duration: 7s; animation-delay: 0s;" />
+    <circle class="snow" cx="260" cy="140" r="5.2"  style="animation-duration: 10s; animation-delay: 1.2s;" />
+    <circle class="snow" cx="400" cy="132" r="4"    style="animation-duration: 9s;  animation-delay: 0.8s;" />
+    <circle class="snow" cx="540" cy="145" r="6"    style="animation-duration: 12s; animation-delay: 0.4s;" />
+    <circle class="snow" cx="680" cy="138" r="4.6"  style="animation-duration: 9.5s; animation-delay: 1.5s;" />
+    <circle class="snow" cx="820" cy="130" r="5"    style="animation-duration: 10.2s; animation-delay: 0.3s;" />
+    <circle class="snow" cx="960" cy="142" r="4.2"  style="animation-duration: 8.8s; animation-delay: 1.8s;" />
+    <circle class="snow" cx="1100" cy="136" r="5.5" style="animation-duration: 11s; animation-delay: 0.7s;" />
+    <circle class="snow" cx="1240" cy="128" r="4.3" style="animation-duration: 8s; animation-delay: 1.4s;" />
+
+    <circle class="snow" cx="180" cy="142" r="3"    style="animation-duration: 6s;  animation-delay: 1.1s;" />
+    <circle class="snow" cx="320" cy="135" r="3.5"  style="animation-duration: 7.5s; animation-delay: 0.9s;" />
+    <circle class="snow" cx="460" cy="143" r="3"    style="animation-duration: 6.7s; animation-delay: 1.6s;" />
+    <circle class="snow" cx="600" cy="130" r="3.2"  style="animation-duration: 7.1s; animation-delay: 0.2s;" />
+    <circle class="snow" cx="740" cy="145" r="3.3"  style="animation-duration: 7.9s; animation-delay: 1.9s;" />
+    <circle class="snow" cx="880" cy="136" r="3.1"  style="animation-duration: 7.2s; animation-delay: 0.5s;" />
+    <circle class="snow" cx="1020" cy="140" r="3.4" style="animation-duration: 7.6s; animation-delay: 1.3s;" />
+    <circle class="snow" cx="1160" cy="144" r="3"   style="animation-duration: 6.8s; animation-delay: 0.6s;" />
+    <circle class="snow" cx="1300" cy="133" r="3.5" style="animation-duration: 7.4s; animation-delay: 1.7s;" />
+  </g>
+
+  <!-- SUN (moved higher by ~25px) -->
+  <g transform="translate(1130, -30)">
+    <circle cx="110" cy="80" r="90" fill="url(#sunOuter)" />
+    <circle cx="110" cy="80" r="60" fill="url(#sunMulti)" />
+  </g>
+
+  <!-- CLOUD BAND (moved higher by ~25px) -->
+  <g transform="translate(0, -25)">
+    <path class="cloud" d="M60 110 C20 110, 20 60, 70 60 C75 35, 110 30, 130 50 C160 20, 210 30, 210 60 C260 60, 260 110, 220 110 Z"
+          transform="translate(-50, 65)" />
+    <path class="cloud" d="M60 110 C20 110, 20 60, 70 60 C75 35, 110 30, 130 50 C160 20, 210 30, 210 60 C260 60, 260 110, 220 110 Z"
+          transform="translate(200, 45)" />
+    <path class="cloud" d="M60 110 C20 110, 20 60, 70 60 C75 35, 110 30, 130 50 C160 20, 210 30, 210 60 C260 60, 260 110, 220 110 Z"
+          transform="translate(450, 70)" />
+    <path class="cloud" d="M60 110 C20 110, 20 60, 70 60 C75 35, 110 30, 130 50 C160 20, 210 30, 210 60 C260 60, 260 110, 220 110 Z"
+          transform="translate(720, 55)" />
+    <path class="cloud" d="M60 110 C20 110, 20 60, 70 60 C75 35, 110 30, 130 50 C160 20, 210 30, 210 60 C260 60, 260 110, 220 110 Z"
+          transform="translate(1000, 62)" />
+    <path class="cloud" d="M60 110 C20 110, 20 60, 70 60 C75 35, 110 30, 130 50 C160 20, 210 30, 210 60, 260 60, 260 110, 220 110 Z"
+          transform="translate(1250, 48)" />
+  </g>
+
+</svg>
