@@ -1,16 +1,17 @@
 # Well Hello There
+
 ![](https://komarev.com/ghpvc/?username=nnilayy&color=blue)
 
 <p>
   <img src="https://media.tenor.com/dwuJ1LwfawUAAAAC/obi-wan-hello-there-obi-wan.gif"  width="750" height="300">
 </p>
 
-______________________________________________________________________________________________________________________
-### Hey there👋, I am Nilay 
+
+## Hey there👋, I am Nilay 
 * 🌱  Doing Many Things ML and SWE.
 * 🦉  A complete Night Owl.
 
-### Skills
+## Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -51,33 +52,19 @@ ________________________________________________________________________________
 * <b><i>Other:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
 
-______________________________________________________________________________________________________________________
-### Socials
-If you would like to connect with me, Feel free to say Hi at the following socials:
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/nnilayy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
 
-  <a href="https://www.github.com/nnilayy/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github">
-  </a>
-    <a href="https://www.x.com/nnilayy_/" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
-  </a>
+## Socials, Projects & Contributions, and Research
 
-  <a href="https://huggingface.co/nnilayy" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face">
-  </a>
+If you'd like to connect, see what I've been building, or follow my research, you can do so using the links below:
 
-  <a href="mailto:nnilayy.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+| **Description** | **Links** |
+|-----------------|-----------|
+| Direct ways to reach me and connect | <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDE3NiAxNzYiIGZpbGw9IndoaXRlIj4KICA8cGF0aCBkPSJNMTUyIDBIMjRBMjQgMjQgMCAwIDAgMCAyNHYxMjhhMjQgMjQgMCAwIDAgMjQgMjRoMTI4YTI0IDI0IDAgMCAwIDI0LTI0VjI0YTI0IDI0IDAgMCAwLTI0LTI0ek02MCAxMzkuMjhhMy43MSAzLjcxIDAgMCAxLTMuNzEgMy43Mkg0MC40OGEzLjcxIDMuNzEgMCAwIDEtMy43Mi0zLjcyVjczYTMuNzIgMy43MiAwIDAgMSAzLjcyLTMuNzJoMTUuODFBMy43MiAzLjcyIDAgMCAxIDYwIDczek00OC4zOCA2M2ExNSAxNSAwIDEgMSAxNS0xNSAxNSAxNSAwIDAgMS0xNSAxNXptOTQuMjYgNzYuNTRhMy40MSAzLjQxIDAgMCAxLTMuNDIgMy40MmgtMTdhMy40MSAzLjQxIDAgMCAxLTMuNDItMy40MnYtMzEuMDVjMC00LjY0IDEuMzYtMjAuMzItMTIuMTMtMjAuMzItMTAuNDUgMC0xMi41OCAxMC43My0xMyAxNS41NXYzNS44NkEzLjQyIDMuNDIgMCAwIDEgOTAuMyAxNDNINzMuODhhMy40MSAzLjQxIDAgMCAxLTMuNDEtMy40MlY3Mi43MWEzLjQxIDMuNDEgMCAwIDEgMy40MS0zLjQySDkwLjNhMy40MiAzLjQyIDAgMCAxIDMuNDIgMy40MnY1Ljc4YzMuODgtNS44MyA5LjYzLTEwLjMxIDIxLjktMTAuMzEgMjcuMTggMCAyNyAyNS4zOCAyNyAzOS4zMnoiLz4KPC9zdmc+Cg==&logoColor=white&color=000000&labelColor=900dd6"> <img src="https://img.shields.io/badge/Twitter-4285F4?logo=x&logoColor=white&color=000000&labelColor=900dd6"> <img src="https://img.shields.io/badge/Gmail-4285F4?logo=gmail&logoColor=white&color=000000&labelColor=900dd6"> |
+| Places to explore my projects, codebase, and open-source contributions | <img src="https://img.shields.io/badge/GitHub-4285F4?logo=github&logoColor=white&color=000000&labelColor=900dd6"> <img src="https://img.shields.io/badge/HuggingFace-4285F4?logo=huggingface&logoColor=white&color=000000&labelColor=900dd6"> <img src="https://img.shields.io/badge/Kaggle-4285F4?logo=kaggle&logoColor=white&color=000000&labelColor=900dd6"> |
+| Places where you can follow my academic and research work | <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&color=000000&labelColor=900dd6"> <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&color=000000&labelColor=900dd6"> |
 
-______________________________________________________________________________________________________________________
 
-### My GitHub Stats
+## My GitHub Stats
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnilayy&layout=compact&theme=midnight-purple&border_color=900dd6&border_radius=10) -->
 ![Github Stats](https://profile-cards-one.vercel.app/api/cards/profile-details?username=nnilayy&theme=midnight_purple&width=850&height=225&border_radius=10&border_color=%23900dd6)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nnilayy&background=000000&disable_animations=true&border=900dd6&border_radius=10&theme=midnight-purple&card_width=400)
