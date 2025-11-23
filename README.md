@@ -1,7 +1,8 @@
+<img src="assets/snowfall-start.svg" width="100%">
+
 # Well Hello There
 
 ![](https://komarev.com/ghpvc/?username=nnilayy&color=blueviolet)
-
 <p>
   <img src="https://media.tenor.com/dwuJ1LwfawUAAAAC/obi-wan-hello-there-obi-wan.gif"  width="750" height="300">
 </p>
@@ -70,5 +71,5 @@ If you'd like to connect, see what I've been building, or follow my research, yo
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nnilayy&background=000000&disable_animations=true&border=900dd6&border_radius=10&theme=midnight-purple&card_width=400)
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnilayy&show_icons=true&theme=midnight-purple&border_color=900dd6&border_radius=10&card_width=300)
 ![Nilay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnilayy&theme=high-contrast&area=true&area_color=c096d9&border_color=900dd6&line=aa39e6&point=aa39e6&color=e3b5ff&custom_title=Nilay%27s%20Past%2030%20Day%20Contribution%20Graph&radius=16)
-<img src="assets/snowfall.svg" width="100%">
+<img src="assets/snowfall-end.svg" width="100%">
 
