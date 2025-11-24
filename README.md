@@ -9,54 +9,11 @@
 </p>
 
 
-* I am Nilay 
+* 🤗 I am Nilay, Eng **@EPAM Systems** & Research Intern **@Sony** • **@IIT Madras (India)** • **@Waseda University (Japan)** • **@Binghamton University (USA)**
 * 🌱  Doing Many Things ML and SWE.
 * 🦉  A complete Night Owl.
 
 <img src="assets/snowfall-middle.svg" width="100%">
-
-<!-- ## Skills
-* <b><i>ML,DL,Data Science:</b></i><br>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://Keras.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://Numpy.com" target="_blank" rel="noreferrer"> 
-    <img src= "https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" alt="postman" width="80" height="64"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-   <img src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  
-* <b><i>Languages:</b></i><br>
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,cpp,c)](https://skillicons.dev)
-
-* <b><i>Frontend Development:</b></i><br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,jquery,sass,materialui,figma)](https://skillicons.dev)
-
-* <b><i>Backend Development:</b></i><br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql,redis,netlify)](https://skillicons.dev)
-
-* <b><i>Other:</b></i><br>
-[![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
-
-<img src="assets/snowfall-middle.svg" width="100%"> -->
 
 ## Socials, Projects & Contributions, and Research
 
