@@ -15,7 +15,7 @@
 
 <img src="assets/snowfall-middle.svg" width="100%">
 
-## Skills
+<!-- ## Skills
 * <b><i>ML,DL,Data Science:</b></i><br>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -56,7 +56,7 @@
 * <b><i>Other:</b></i><br>
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,unity,regex,latex)](https://skillicons.dev)
 
-<img src="assets/snowfall-middle.svg" width="100%">
+<img src="assets/snowfall-middle.svg" width="100%"> -->
 
 ## Socials, Projects & Contributions, and Research
 
