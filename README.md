@@ -9,7 +9,7 @@
 </p>
 
 
-* 🤗 I am Nilay, Founding AI Eng **@Samora AI(YC W26)**, Ex-SWE **@EPAM Systems**, Ex-Research Intern **@Sony (Japan)** • **@IIT Madras (India)** • **@Waseda University (Japan)** • **@Binghamton University (USA)**
+* 🤗 I am Nilay, Founding AI Eng **@Samora AI (YC W26)**, Ex-SWE **@EPAM Systems**, Ex-Research Intern **@Sony (Japan)** • **@IIT Madras (India)** • **@Waseda University (Japan)** • **@Binghamton University (USA)**
 * 🌱  Doing Many Things ML and SWE.
 * 🦉  A complete Night Owl.
 
